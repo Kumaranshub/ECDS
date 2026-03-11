@@ -7,15 +7,12 @@
    ███████║███████╗██║ ╚████║   ██║   ██║██║ ╚████║███████╗███████╗               
    ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝               
                                                                                  
-           SINGAPORE NATIONAL THREAT INTELLIGENCE PLATFORM                       
+                               
                                                                                  
    SENTINEL — Secure Entity Network for Threat Intelligence & Enforcement Layer 
                                                                                  
-        Real-Time Criminal Intelligence Fusion Infrastructure                   
-                                                                                 
-
-
-
+                    
+                                                                                
 SECTION 01 — MISSION BRIEF
 
 SENTINEL is a multi-source real-time intelligence fusion platform designed
