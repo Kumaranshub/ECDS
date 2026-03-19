@@ -176,6 +176,3 @@ BMO is not a tool. BMO is a friend who happens to also play GBA games.
 ## 📜 License
 MIT. Make your own BMO. The world needs more BMOs.
 
----
-
-> *"I'm not a game, I'm BMO."*
